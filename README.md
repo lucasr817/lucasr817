@@ -16,7 +16,6 @@ Experiência prática com desenvolvimento backend moderno, modelagem de banco de
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,git,github,linux" />
 
 </p>
 
